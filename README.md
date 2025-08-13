@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="200" src="https://hcti.io/v1/image/89187fec-7607-4e6c-a6b1-bd957a5d64fa"  />
+</div>
+
+###
+
 <h1 align="center">Hello Everyone, I'm Theresa Baker!</h1>
 
 ###
@@ -10,7 +16,7 @@
 
 ###
 
-<h4 align="left">✨ Creating bugs since 2018, when I started diving deep into systems - now I find and fix them professionally!<br><br>📚 I'm currently learning Advanced threat hunting techniques, cloud security architectures, and automated incident response workflows.<br><br>🎯 Become a senior penetration tester and specialize in advanced red team operations and vulnerability research.<br><br>🎲I transitioned from healthcare to cybersecurity and discovered my healthcare background makes me better at incident response - both require staying calm under pressure and following systematic protocols!</h4>
+<h4 align="left">✨ Uncovering system weaknesses since 2018 - now I leverage that insight to strengthen cybersecurity defenses!<br><br>📚 I'm currently learning Advanced threat hunting techniques, cloud security architectures, and automated incident response workflows.<br><br>🎯 Become a senior penetration tester and specialize in advanced red team operations and vulnerability research.<br><br>🎲I transitioned from healthcare to cybersecurity and discovered my healthcare background makes me better at incident response - both require staying calm under pressure and following systematic protocols!</h4>
 
 ###
 
