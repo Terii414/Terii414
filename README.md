@@ -1,18 +1,12 @@
-<div align="center">
-  <img height="200" src="https://hcti.io/v1/image/89187fec-7607-4e6c-a6b1-bd957a5d64fa"  />
-</div>
+<h1 align="center">Hey there! 👋 I'm Theresa Baker</h1>
 
 ###
 
-<h1 align="center">Hello Everyone, I'm Theresa Baker!</h1>
+<h3 align="center">A Results-driven Cybersecurity Specialist</h3>
 
 ###
 
-<h2 align="center">A Results-driven Cybersecurity Specialist</h2>
-
-###
-
-<h4 align="left">I'm a certified cybersecurity professional with 7+ years of experience specializing in incident response, forensic analysis, and penetration testing. My journey from healthcare to cybersecurity has given me a unique perspective on protecting sensitive data and systems under high-pressure situations. I've mastered industry-standard tools like Kali Linux, Metasploit, Wireshark, and SIEM platforms, with hands-on experience in vulnerability assessment, security hardening, and compliance frameworks including ISO 27001 and NIST.<br><br>Currently serving as a Cybersecurity Mentor at 4Geeks Academy, I guide the next generation of security professionals through real-world projects involving penetration testing and SIEM implementation. My recent projects include leading comprehensive incident response investigations and designing custom Wazuh SIEM solutions with automated threat detection. I'm passionate about offensive security and building robust defense mechanisms that protect organizations from evolving cyber threats.</h4>
+<h4 align="center">I'm a certified cybersecurity professional with 7+ years of experience specializing in incident response, forensic analysis, and penetration testing. My journey from healthcare to cybersecurity has given me a unique perspective on protecting sensitive data and systems under high-pressure situations. I've mastered industry-standard tools like Kali Linux, Metasploit, Wireshark, and SIEM platforms, with hands-on experience in vulnerability assessment, security hardening, and compliance frameworks including ISO 27001 and NIST.<br><br>Currently serving as a Cybersecurity Mentor at 4Geeks Academy, I guide the next generation of security professionals through real-world projects involving penetration testing and SIEM implementation. My recent projects include leading comprehensive incident response investigations and designing custom Wazuh SIEM solutions with automated threat detection. I'm passionate about offensive security and building robust defense mechanisms that protect organizations from evolving cyber threats.</h4>
 
 ###
 
@@ -20,20 +14,24 @@
 
 ###
 
+<h2 align="left">I code with...</h2>
+
+###
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
 ###
@@ -46,8 +44,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/Terii414.https://github.com/Terii414&"  />
-</div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/Terii414.https://github.com/Terii414&"  />
 
 ###
