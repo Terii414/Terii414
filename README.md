@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="200" src="https://imgur.com/a/N48pVLT"  />
+</div>
+
+###
+
 <h1 align="center">Hey there! 👋 I'm Theresa Baker</h1>
 
 ###
@@ -6,7 +12,7 @@
 
 ###
 
-<h4 align="center">I'm a certified cybersecurity professional with 7+ years of experience specializing in incident response, forensic analysis, and penetration testing. My journey from healthcare to cybersecurity has given me a unique perspective on protecting sensitive data and systems under high-pressure situations. I've mastered industry-standard tools like Kali Linux, Metasploit, Wireshark, and SIEM platforms, with hands-on experience in vulnerability assessment, security hardening, and compliance frameworks including ISO 27001 and NIST.<br><br>Currently serving as a Cybersecurity Mentor at 4Geeks Academy, I guide the next generation of security professionals through real-world projects involving penetration testing and SIEM implementation. My recent projects include leading comprehensive incident response investigations and designing custom Wazuh SIEM solutions with automated threat detection. I'm passionate about offensive security and building robust defense mechanisms that protect organizations from evolving cyber threats.</h4>
+<h4 align="center">I'm a certified cybersecurity professional with 7+ years of experience in incident response, forensic analysis, and penetration testing. My healthcare-to-cybersecurity transition provides unique insights into protecting sensitive data under pressure, with expertise in Kali Linux, Metasploit, Wireshark, SIEM platforms, and compliance frameworks like ISO 27001 and NIST.<br><br>As a Cybersecurity Mentor at 4Geeks Academy, I guide aspiring security professionals through hands-on penetration testing and SIEM projects. My recent work includes leading incident response investigations and designing custom Wazuh SIEM solutions with automated threat detection, focusing on both offensive security and robust defense mechanisms.</h4>
 
 ###
 
@@ -14,7 +20,15 @@
 
 ###
 
-<h2 align="left">I code with...</h2>
+<h2 align="left">CONNECT WITH ME...</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/theresa-baker-a6887a314/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
 ###
 
@@ -36,10 +50,20 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/theresa-baker-a6887a314/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
 
 ###
