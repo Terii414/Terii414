@@ -6,10 +6,10 @@
 
 ###
 
-<h4 align="center">I'm a certified cybersecurity professional with 7+ years of experience in incident response, forensic analysis, and penetration testing. My healthcare background provides unique insights into protecting sensitive data, with expertise in Kali Linux, Metasploit, Wireshark, SIEM platforms, and compliance frameworks like ISO 27001 and NIST.<br><br>Currently a Cybersecurity Mentor at 4Geeks Academy, I guide aspiring professionals through penetration testing and SIEM projects. My recent work includes incident response investigations and custom Wazuh SIEM solutions with automated threat detection, specializing in both offensive security and defense mechanisms.</h4>
+<h4 align="left">I'm a certified cybersecurity professional with 7+ years of experience in incident response, forensic analysis, and penetration testing. My healthcare background provides unique insights into protecting sensitive data, with expertise in Kali Linux, Metasploit, Wireshark, SIEM platforms, and compliance frameworks like ISO 27001 and NIST.<br><br>Currently a Cybersecurity Mentor at 4Geeks Academy, I guide aspiring professionals through penetration testing and SIEM projects. My recent work includes incident response investigations and custom Wazuh SIEM solutions with automated threat detection, specializing in both offensive security and defense mechanisms.</h4>
 
 ###
-
+<h2 align="left">ABOUT ME...</h2>
 <h4 align="left">✨ Uncovering system weaknesses since 2018 - now I leverage that insight to strengthen cybersecurity defenses!<br><br>📚 I'm currently learning Advanced threat hunting techniques, cloud security architectures, and automated incident response workflows.<br><br>🎯 Become a senior penetration tester and specialize in advanced red team operations and vulnerability research.<br><br>🎲I transitioned from healthcare to cybersecurity and discovered my healthcare background makes me better at incident response - both require staying calm under pressure and following systematic protocols!</h4>
 
 ###
@@ -28,7 +28,7 @@
 </div>
 
 ###
-
+<h2 align="left">SKILLS...</h2>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
