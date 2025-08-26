@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">✨ Uncovering system weaknesses since 2018 - now I leverage that insight to strengthen cybersecurity defenses!<br><br>📚 I'm currently learning Advanced threat hunting techniques, cloud security architectures, and automated incident response workflows.<br><br>🎯 Become a senior penetration tester and specialize in advanced red team operations and vulnerability research.<br><br>🎲I transitioned from healthcare to cybersecurity and discovered my healthcare background makes me better at incident response - both require staying calm under pressure and following systematic protocols!</h5>
+<h4 align="left">✨ Uncovering system weaknesses since 2018 - now I leverage that insight to strengthen cybersecurity defenses!<br><br>📚 I'm currently learning Advanced threat hunting techniques, cloud security architectures, and automated incident response workflows.<br><br>🎯 Become a senior penetration tester and specialize in advanced red team operations and vulnerability research.<br><br>🎲I transitioned from healthcare to cybersecurity and discovered my healthcare background makes me better at incident response - both require staying calm under pressure and following systematic protocols!</h4>
 
 ###
 
